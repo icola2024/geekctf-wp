@@ -1,4 +1,8 @@
 ## [OAuth](/oauth.md)
 ## [Next GPT](/nextgpt.md)
 ## [SafeBlog1](/safeblog1.md)
+## [SafeBlog2](/safeblog2.md)
 ## [ECommerce](/ecommerce.md)
+## [PicBed](/picbed.md)
+## [Secrets](/secrets.md)
+## [YAJF](/yajf.md)
